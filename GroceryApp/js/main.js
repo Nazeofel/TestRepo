@@ -11,6 +11,8 @@ const cardTitleIsNullOrEmpty = cardTitle === null || cardTitle === ""
 const itemNameIsNullOrEmpty = itemName === null || itemName === ""
 const itemListIsUndefined = itemListUndefined !== undefined || itemListUndefined > 0;
 
+console.log("THE FILE HAS BEEN CORRECTLY IMPORTED AND EXECUTED");
+
 /*
  TO DO :
 
